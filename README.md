@@ -21,9 +21,6 @@ RAM = 8GB
 OS = Windows 10  
 IDE = Visual Studio 2017  
 Language = Python 3.6  
-Library =  
-  { Tensorflow  
-  , OpenCV  
-  }  
+Library = { Tensorflow, OpenCV }  
 
 # Video
