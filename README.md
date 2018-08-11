@@ -24,6 +24,6 @@ Language = Python 3.6
 Library = { Tensorflow, OpenCV }  
 
 # Video
-- Playing Video (25sec)
+- Training Video (25sec)
 
 [![Video Label](http://img.youtube.com/vi/jdzVI9Zmr5A/0.jpg)](https://youtu.be/jdzVI9Zmr5A)
